@@ -1,0 +1,6 @@
+预先需要安装的包：
+numpy
+pandas
+matplotlib
+copy
+mpl_toolkits.mplot3d
